@@ -1,4 +1,4 @@
-opencv-python-headless==4.2.0.32
+opencv-python==4.3.0.36
 Python 3.9.7
 Flask 1.1.2
 Werkzeug 2.0.2
